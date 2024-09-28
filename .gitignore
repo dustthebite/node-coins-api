@@ -1,0 +1,4 @@
+.env
+/node_modules
+/src/utils/database
+/src/utils/export_mongodb.js
